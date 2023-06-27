@@ -1,0 +1,6 @@
+C:\Users\fatih.gulec\source\repos\Entity\bin\Debug\Entity.dll
+C:\Users\fatih.gulec\source\repos\Entity\bin\Debug\Entity.pdb
+C:\Users\fatih.gulec\source\repos\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\fatih.gulec\source\repos\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\fatih.gulec\source\repos\Entity\obj\Debug\Entity.dll
+C:\Users\fatih.gulec\source\repos\Entity\obj\Debug\Entity.pdb

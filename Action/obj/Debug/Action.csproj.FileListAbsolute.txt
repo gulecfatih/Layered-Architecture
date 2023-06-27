@@ -1,0 +1,11 @@
+C:\Users\fatih.gulec\source\repos\Action\bin\Debug\Action.dll
+C:\Users\fatih.gulec\source\repos\Action\bin\Debug\Action.pdb
+C:\Users\fatih.gulec\source\repos\Action\bin\Debug\DAL.dll
+C:\Users\fatih.gulec\source\repos\Action\bin\Debug\Entity.dll
+C:\Users\fatih.gulec\source\repos\Action\bin\Debug\DAL.pdb
+C:\Users\fatih.gulec\source\repos\Action\bin\Debug\Entity.pdb
+C:\Users\fatih.gulec\source\repos\Action\obj\Debug\Action.csproj.AssemblyReference.cache
+C:\Users\fatih.gulec\source\repos\Action\obj\Debug\Action.csproj.CoreCompileInputs.cache
+C:\Users\fatih.gulec\source\repos\Action\obj\Debug\Action.csproj.CopyComplete
+C:\Users\fatih.gulec\source\repos\Action\obj\Debug\Action.dll
+C:\Users\fatih.gulec\source\repos\Action\obj\Debug\Action.pdb
